@@ -84,23 +84,7 @@ cd Iranian_Bot
 
 **شما باید ادرس زیر رو ادیت کنید**
 
-**https://github.com/pAyDaAr/Iranian_Bot.git**
-
-شما باید به جای
-
-PAydaar ای دی اک گیتابتون و
- 
-به جای iranain_bot
- 
-اسم فایل خودتون رو وارد کنید
-
-و در این کد
-
-cd Iranian_Bot 
-
-به جای iranian_bot
-
-اسم فایل خودتون رو وارد کنید و سورس شما کامل میشه
+**https://github.com/mentor81/kgbot.git**
 
 **بعد ارسال سورس اصلی**
 
@@ -118,10 +102,4 @@ cd Iranian_Bot
 
 تماس با ما
 ================
-[AmIr_PayDaAr](https://telegram.me/Amir_paydaar)
-
-and my friend [hacker13v](https://telegram.me/hacker13v)
-
-[**Support With Group**](https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA)
-
-**https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA**
+[KavianG81](https://telegram.me/p0k3rf4c3)
